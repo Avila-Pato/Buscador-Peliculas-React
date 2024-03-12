@@ -1,21 +1,13 @@
--Creando una aplicación para buscar películas
+### Aplicación para buscar películas
+Este proyecto es una aplicación simple diseñada para buscar películas utilizando la base de datos de la API OMDB. Permite a los usuarios ingresar el nombre de una película y ver los resultados de la búsqueda de manera rápida y eficiente.
 
--Requerimientos:
-
- [x] Necesita mostrar un input para buscar la película y un botón para buscar.
-
- [x] Lista las películas y muestra el título, año y poster. API 4287ad07&
-
- [x] Que el formulario funcione
-
- [x] Haz que las películas se muestren en un grid responsive.
-
- [x] Hacer el fetching de datos a la API
-
--Primera iteración:
-
-[x] Evitar que se haga la misma búsqueda dos veces seguidas.
-
-[x] Haz que la búsqueda se haga automáticamente al escribir.
-
-[] Evita que se haga la búsqueda continuamente al escribir (debounce)
+# Requerimientos
+- Mostrar un campo de entrada para buscar películas y un botón para iniciar la búsqueda.
+- Listar las películas encontradas, mostrando el título, año y póster de cada una.
+- Funcionamiento del formulario de búsqueda.
+- Mostrar las películas en un diseño grid responsive.
+- Realizar el fetching de datos a la API de OMDB.
+# Primera iteración
+- Evitar búsquedas duplicadas consecutivas.
+- Implementar la búsqueda automática al escribir.
+- Aplicar un tiempo de espera (debounce) para evitar búsquedas continuas al escribir.
