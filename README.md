@@ -1,5 +1,5 @@
 # Aplicación para buscar películas
-Este proyecto es una aplicación simple diseñada para buscar películas utilizando la base de datos de la API OMDB. Permite a los usuarios ingresar el nombre de una película y ver los resultados de la búsqueda de manera rápida y eficiente.
+Este proyecto es una aplicación simple diseñada para buscar películas utilizando la base de datos de la API OMDB. Permite a los usuarios ingresar el nombre de una película y ver los resultados de la búsqueda de manera rápida y eficiente. (Busca los vengadores)
 
 ## Funcionalidades  hechas en la pagina 
 - Mostrar un campo de entrada para buscar películas y un botón para iniciar la búsqueda.
